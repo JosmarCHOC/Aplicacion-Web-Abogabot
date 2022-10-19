@@ -11,8 +11,8 @@ Responsable Funcional designado por el equipo de desarrollo de software: Choc Ca
 Descripcion de la solicitud:
 
 Usuario Solicitudes:
-Aplicacion para automatizar la demanda de los clientes.
-Proceso de pago.
+*Aplicacion para automatizar la demanda de los clientes.
+*Proceso de pago.
 Notificaciones para el administrador de los ingresos recibidos.
 Comentarios para actualizar el proceso de demanda.
 Notificaciones sobre el proceso de demanda para el cliente.
